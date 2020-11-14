@@ -1,1 +1,1 @@
-# Face-Recognition
+The Above codes are the codes are for creating a facial dataset,training the dataset and finally showning the result ofthe data set. We have used the concept of Haar Cascading.Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video and based on the concept of features. The xml file mentioned above consists of the Haar Cascaded objects
